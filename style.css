@@ -8,9 +8,9 @@ header{
 select{
     margin-right: 60px;
 }
-.nav{
 .body{
     background-color:white;
+    overflow-x: hidden;
     font-family: 'Roboto', sans-serif;
 }
 .nav{
@@ -437,7 +437,6 @@ button{
     justify-content: flex-end;
     margin-right: 20px;
 }
-=======
 /*SECTION FEMME*/
 .femme{
     display: flex;
@@ -448,8 +447,7 @@ button{
     margin-top: 50px;
     justify-content: space-around;
     margin-left: 80px;
- 
-}
+ }
 img{
   /*  border: solid 1px;*/
  
@@ -548,4 +546,4 @@ img{
     margin-top: -60px;
     position:absolute;
     background: #cf3034;
-}   
+}  
